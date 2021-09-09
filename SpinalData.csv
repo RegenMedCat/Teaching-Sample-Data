@@ -2,8 +2,8 @@ Rat,Group,Axon.Growth,BBB
 1,Vehicle,25.48,16
 2,Vehicle,20.71,16
 3,Vehicle,28.37,15
-4,Vehicle,22.85,13
-5,Vehicle,23.65,12
+4,Vehicle,22.85,14
+5,Vehicle,23.65,13
 6,Vehicle,24.2,17
 7,Vehicle,26.08,13
 8,Vehicle,22.77,17
@@ -18,7 +18,7 @@ Rat,Group,Axon.Growth,BBB
 17,Drug1,27.03,14
 18,Drug1,28.31,15
 19,Drug1,26.56,13
-20,Drug1,27.48,9
+20,Drug1,27.48,10
 21,Drug1,28.15,15
 22,Drug1,29.87,15
 23,Drug1,26.71,13
