@@ -9,7 +9,7 @@ Participant,Group,FEV1/FVC
 8,Vehicle,70.1
 9,Vehicle,76.9
 10,Vehicle,65.2
-11,Vehicle,58.4
+11,Vehicle,60.4
 12,Vehicle,64.2
 13,Drug,82.8
 14,Drug,75.7
@@ -20,6 +20,6 @@ Participant,Group,FEV1/FVC
 19,Drug,71.6
 20,Drug,79.5
 21,Drug,72.9
-22,Drug,82.3
-23,Drug,80.3
+22,Drug,85.3
+23,Drug,79.3
 24,Drug,76.5
